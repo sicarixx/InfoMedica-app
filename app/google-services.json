@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302384587116",
+    "project_id": "infomedica-6b7ad",
+    "storage_bucket": "infomedica-6b7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302384587116:android:40fe700b0bddfcbf73d349",
+        "android_client_info": {
+          "package_name": "com.burgoa.infomedica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPHh2YHovKw__YxzceuKnlPNkOFUqYsrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

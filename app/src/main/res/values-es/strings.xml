@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InfoMedica</string>
+    <string name="titleLogin">Acceso Personal Médico</string>
+    <string name="titleRegister">Regístrate aquí</string>
+    <string name="titleMain">Buscar identificador</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="passwordRepeat">Repita contraseña</string>
+    <string name="buttonLogin">Acceder</string>
+    <string name="buttonRegister">Registrarse</string>
+    <string name="buttonSearch">Buscar</string>
+    <string name="identifier">Identificador</string>
+    <string name="questMedical">¿Eres personal médico o primer respondedor?</string>
+    <string name="solicitaAcceso"><u>Solicita acceso aquí</u></string>
+    <string name="toastRequired">Todos los datos son requeridos</string>
+    <string name="errorLogin">Se ha encontrado un error autenticando al usuario, intentalo más tarde</string>
+    <string name="errorRegister">Se ha encontrado un error registrando al usuario, intentalo más tarde</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="about">Sobre InfoMedica</string>
+    <string name="postRegister">Registro exitoso, debes iniciar sesión</string>
+    <string name="identifierToast">Buscando información...</string>
+    <string name="idendifierEmpty">El identificador está vacío</string>
+    <string name="itemAbout">Sobre InfoMedica</string>
+    <string name="itemSignout">Cerrar Sesión</string>
+    <string name="errorPassword">Las contraseñas no coinciden</string>
+    <string name="welcome">Bienvenido a InfoMedica</string>
+    <string name="lengthPassword">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="emailAlreadyInUse">El correo electrónico ya está en uso por otra cuenta\n- Intenta iniciar sesión\n- Recupera tu cuenta\n- Registrate con otro correo electrónico</string>
+    <string name="showPassword">Mostrar contraseña</string>
+</resources>

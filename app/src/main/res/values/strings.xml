@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InfoMedica</string>
+    <string name="titleLogin">Medical Personnel Access</string>
+    <string name="titleRegister">Sign Up here</string>
+    <string name="titleMain">Search identifier</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="passwordRepeat">Repeat password</string>
+    <string name="buttonLogin">Log In</string>
+    <string name="buttonRegister">Sign Up</string>
+    <string name="buttonSearch">Search</string>
+    <string name="identifier">Identifier</string>
+    <string name="questMedical">Are you a medical staff or first responder?</string>
+    <string name="solicitaAcceso"><u>Request access here</u></string>
+    <string name="toastRequired">All data is required</string>
+    <string name="errorLogin">An error was encountered authenticating the user, try again later</string>
+    <string name="errorRegister">An error was encountered registering the user, try again later</string>
+    <string name="btnAceptar">Accept</string>
+    <string name="about">About InfoMedica</string>
+    <string name="postRegister">Successful registration, you must log in</string>
+    <string name="identifierToast">Looking for information...</string>
+    <string name="idendifierEmpty">Identifier is empty</string>
+    <string name="itemAbout">About InfoMedica</string>
+    <string name="itemSignout">Sign Out</string>
+    <string name="errorPassword">Passwords do not match</string>
+    <string name="welcome">Welcome to InfoMedica</string>
+    <string name="lengthPassword">The password must be at least 6 characters long</string>
+    <string name="emailAlreadyInUse">The email address is already in use by another account\n- Try to Sign In\n- Recover your account\n- Sign up with a different email address</string>
+    <string name="showPassword">Show password</string>
+</resources>
